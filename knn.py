@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#240201043 ÖYKÜ ANDAÇ
+
 import pandas as pd
 import math
 import operator
